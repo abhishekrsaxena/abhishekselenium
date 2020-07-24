@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-07T23:15:18 IST" name="Suite" finished-at="2020-07-07T23:15:18 IST" duration-ms="79">
+    <groups>
+    </groups>
+    <test started-at="2020-07-07T23:15:18 IST" name="Test" finished-at="2020-07-07T23:15:18 IST" duration-ms="79">
+      <class name="Selflearning.Mavenjava.SeleniumTest">
+        <test-method signature="SeleniumTest1()[pri:0, instance:Selflearning.Mavenjava.SeleniumTest@78047b92]" started-at="2020-07-07T23:15:18 IST" name="SeleniumTest1" finished-at="2020-07-07T23:15:18 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest1 -->
+        <test-method signature="SeleniumTest2()[pri:0, instance:Selflearning.Mavenjava.SeleniumTest@78047b92]" started-at="2020-07-07T23:15:18 IST" name="SeleniumTest2" finished-at="2020-07-07T23:15:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+      </class> <!-- Selflearning.Mavenjava.SeleniumTest -->
+      <class name="Selflearning.Mavenjava.AppiumTest">
+        <test-method signature="AndroidAPP()[pri:0, instance:Selflearning.Mavenjava.AppiumTest@8909f18]" started-at="2020-07-07T23:15:18 IST" name="AndroidAPP" finished-at="2020-07-07T23:15:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAPP -->
+        <test-method signature="iOSAPP()[pri:0, instance:Selflearning.Mavenjava.AppiumTest@8909f18]" started-at="2020-07-07T23:15:18 IST" name="iOSAPP" finished-at="2020-07-07T23:15:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSAPP -->
+      </class> <!-- Selflearning.Mavenjava.AppiumTest -->
+      <class name="Selflearning.Mavenjava.RestAPITest">
+        <test-method signature="SignINAPI()[pri:0, instance:Selflearning.Mavenjava.RestAPITest@79ca92b9]" started-at="2020-07-07T23:15:18 IST" name="SignINAPI" finished-at="2020-07-07T23:15:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignINAPI -->
+        <test-method signature="SingOutAPI()[pri:0, instance:Selflearning.Mavenjava.RestAPITest@79ca92b9]" started-at="2020-07-07T23:15:18 IST" name="SingOutAPI" finished-at="2020-07-07T23:15:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingOutAPI -->
+      </class> <!-- Selflearning.Mavenjava.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
